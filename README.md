@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iam-sarthak/iam-sarthak/refs/heads/main/github.png" />
+</p>
+
 ### 🔥 About Me
 - 🔭 I’m currently working on **backend systems and API integrations**
 - 👯 I’m looking to collaborate on **full-stack web apps & open-source projects**
@@ -41,7 +45,7 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iam-sarthak&theme=tokyonight&hide_border=true" alt="sarthak-streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sarthak&layout=compact&theme=tokyonight" alt="top-langs" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sarthak&layout=compact&theme=tokyonight" alt="top-langs" /> -->
 </p>
 
 ---
