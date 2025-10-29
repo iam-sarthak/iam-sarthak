@@ -62,5 +62,5 @@
 
 
 
-  <img src="https://minimalistic-wallpaper.demolab.com/?random" alt="Typing SVG" />
+<img src="https://minimalistic-wallpaper.demolab.com/?random=${Math.floor(Math.random()*100)+1}" alt="Typing SVG" />
 
