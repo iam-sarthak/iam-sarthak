@@ -60,3 +60,7 @@
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
+
+
+  <img src="https://minimalistic-wallpaper.demolab.com/?random" alt="Typing SVG" />
+
